@@ -1,5 +1,5 @@
 # React-Calendar-blog-tutorial
-Learn React by Practice And Create Simple React Calendar
+Learn React by Practice And Create Simple React Calendar tutorial on [Alex Devero Blog](http://blog.alexdevero.com/).
 
 ## Assets:
 - React library hosted on [CDN](https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.js)
