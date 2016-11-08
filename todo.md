@@ -1,5 +1,11 @@
 # Todo:
-- create HTML main file
+- ~~create HTML main file~~
 - create Sass main file
-- create JS main file
+- ~~create JS main file~~
 - update links to blog after publishing
+- create method for switching to next month
+- create method for switching to previous month
+- create method for selecting date and updating state
+- add new keys to state to track next, previous and this month
+- create styles for calendar input
+- create styles for calendar datepicker
