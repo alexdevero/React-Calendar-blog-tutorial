@@ -9,3 +9,4 @@
 - add new keys to state to track next, previous and this month
 - create styles for calendar input
 - create styles for calendar datepicker
+- create methods for displaying calendar
