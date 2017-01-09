@@ -1,4 +1,4 @@
-# React-Calendar-blog-tutorial
+# React Calendar blog tutorial
 Learn React by Practice And Create Simple React Calendar tutorial on [Alex Devero Blog](http://blog.alexdevero.com/).
 
 ## Assets:
